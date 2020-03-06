@@ -1,2 +1,2 @@
 # ds5k_coursework
-Final projects from General Assembly Data Science course.
+Final projects from ga data science course.
